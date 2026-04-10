@@ -2,7 +2,7 @@
 
 **Version:** 1.1  
 **Developed by:** IGRAC – International Groundwater Resources Assessment Centre  
-**Authors:** [Author names TBD]  
+**Authors:** Elie Gerges, Claudia Ruz Vargas, Elisabeth Lictevout, Feifei Cao  
 **Licence:** MIT  
 
 ---
@@ -147,7 +147,7 @@ The completeness filter and trend analysis follow the methodology described in:
 
 If you use this tool in your work, please cite it as:
 
-> [Author names TBD] (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. [DOI TBD – will be minted via Zenodo upon first release]
+> Gerges, E., Ruz Vargas, C., Lictevout, E., Cao, F. (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. [DOI TBD – will be minted via Zenodo upon first release]
 
 ---
 
