@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Groundwater Trends Dashboard"
+version: "1.1"
+date-released: "2025-01-01"
+abstract: >
+  A tool developed by IGRAC to analyse and visualise long-term groundwater level 
+  trends. Given groundwater monitoring time series, the tool applies a completeness 
+  filter, computes Mann-Kendall trend statistics and Sen slopes (20y, 10y, 5y), 
+  calculates the Cumulative Relative Impact (CRI), performs 2023 percentile ranking, 
+  and generates an interactive HTML dashboard and results spreadsheet.
+license: MIT
+repository-code: "https://github.com/[IGRAC-ACCOUNT]/groundwater-trends-dashboard-v1.1"
+contact:
+  - name: "IGRAC – International Groundwater Resources Assessment Centre"
+    website: "https://www.un-igrac.org"
+authors:
+  - name: "[Author 1 – TBD]"
+  - name: "[Author 2 – TBD]"
+  - name: "[Author 3 – TBD]"
+  - name: "[Author 4 – TBD]"
+keywords:
+  - groundwater
+  - trend analysis
+  - Mann-Kendall
+  - Sen slope
+  - hydrology
+  - monitoring
+  - IGRAC
