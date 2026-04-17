@@ -10,7 +10,7 @@ abstract: >
   calculates the Cumulative Relative Impact (CRI), performs 2023 percentile ranking, 
   and generates an interactive HTML dashboard and results spreadsheet.
 license: MIT
-doi: "10.5281/zenodo.15228306"
+doi: "10.5281/zenodo.19628306"
 repository-code: "https://github.com/UNIGRAC/groundwater-trends-dashboard"
 contact:
   - name: "IGRAC – International Groundwater Resources Assessment Centre"
