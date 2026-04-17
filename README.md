@@ -1,6 +1,6 @@
 # Groundwater Trends Dashboard
 
-[![DOI](https://zenodo.org/badge/1206754545.svg)](https://doi.org/10.5281/zenodo.19628306)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19628306.svg)](https://doi.org/10.5281/zenodo.19628306)
 
 **Version:** 1.1  
 **Developed by:** IGRAC – International Groundwater Resources Assessment Centre  
