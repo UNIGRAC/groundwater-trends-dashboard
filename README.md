@@ -1,5 +1,7 @@
 # Groundwater Trends Dashboard
 
+[![DOI](https://zenodo.org/badge/1206754545.svg)](https://doi.org/10.5281/zenodo.19628306)
+
 **Version:** 1.1  
 **Developed by:** IGRAC – International Groundwater Resources Assessment Centre  
 **Authors:** Elie Gerges, Claudia Ruz Vargas, Elisabeth Lictevout, Feifei Cao  
@@ -72,7 +74,7 @@ Spatial coordinates for each well.
 
 | Column | Description |
 |--------|-------------|
-| `site` | Well identifier (must match 'site' well identifier in `Monitoring_data.csv`) |
+| `site` | Well identifier (must match the 'site' column in `Monitoring_data.csv`) |
 | `X` | Longitude (WGS 84, decimal degrees) |
 | `Y` | Latitude (WGS 84, decimal degrees) |
 
@@ -155,7 +157,7 @@ The completeness filter and trend analysis follow the methodology described in:
 
 If you use this tool in your work, please cite it as:
 
-> Gerges, E., Ruz Vargas, C., Lictevout, E., Cao, F. (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. [DOI https://doi.org/10.5281/zenodo.19628306]
+> Gerges, E., Ruz Vargas, C., Lictevout, E., Cao, F. (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. https://doi.org/10.5281/zenodo.19628306
 
 ---
 
