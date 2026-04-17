@@ -1,6 +1,6 @@
 # Groundwater Trends Dashboard
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19628306.svg)](https://doi.org/10.5281/zenodo.19628306)
+[![DOI](https://zenodo.org/badge/1206754545.svg)](https://doi.org/10.5281/zenodo.19628306)
 
 **Version:** 1.1  
 **Developed by:** IGRAC – International Groundwater Resources Assessment Centre  
@@ -102,10 +102,10 @@ IGRAC logo used in the dashboard. Keep this file as-is in the `input/` folder.
 
 ### Option A – Windows executable (no Python required)
 
-1. Download the latest release from the [Releases](../../releases) page
-2. Extract the ZIP file to a local folder (do not run from inside the ZIP)
-3. Place your input files in the `input/` folder (see above)
-4. Double-click `GwDashboard.exe`
+1. Go to the [Releases](../../releases) page and download `GwDashboard_v1.1.zip`
+2. Extract it to a local folder (do not run from inside the ZIP)
+3. To use your own data: replace the 3 CSV files in the `input/` folder with your own (keep the same file names)
+4. Double-click `gw_dashboard.exe`
 5. Wait 2–3 minutes for processing to complete
 6. Open the dashboard from the `output/` folder
 
