@@ -155,7 +155,7 @@ The completeness filter and trend analysis follow the methodology described in:
 
 If you use this tool in your work, please cite it as:
 
-> Gerges, E., Ruz Vargas, C., Lictevout, E., Cao, F. (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. [DOI https://doi.org/10.5281/zenodo.15228306]
+> Gerges, E., Ruz Vargas, C., Lictevout, E., Cao, F. (2025). *Groundwater Trends Dashboard* (Version 1.1). IGRAC. [DOI https://doi.org/10.5281/zenodo.19628306]
 
 ---
 
