@@ -17,7 +17,7 @@ Given a set of groundwater monitoring time series, the tool applies a data compl
 
 The tool is available in two forms:
 - **Python script** (`gw_dashboard.py`) – for users with a Python environment
-- **Windows executable** (`GwDashboard.exe`) – for users without Python, available as a downloadable asset in the [Releases](../../releases) section
+- **Windows executable** (`gw_dashboard.exe`) – for users without Python, available as a downloadable asset in the [Releases](../../releases) section
 
 ---
 
