@@ -60,7 +60,7 @@ Raw groundwater monitoring time series.
 |--------|-------------|
 | `Date` | Date of measurement (`DD/MM/YYYY` or `YYYY-MM-DD`) |
 | `site` | Unique well identifier |
-| `depth` or `water_level` | Groundwater measurement in meters (see note below) |
+| `depth` or `water_level` | Groundwater measurement (see note below) |
 
 - Column named `depth` → interpreted as depth below ground level  
 - Column named `water_level` → interpreted as elevation above mean sea level  
@@ -72,7 +72,7 @@ Spatial coordinates for each well.
 
 | Column | Description |
 |--------|-------------|
-| `site` | Well identifier (must match site in the file `Monitoring_data.csv`) |
+| `site` | Well identifier (must match `Monitoring_data.csv`) |
 | `X` | Longitude (WGS 84, decimal degrees) |
 | `Y` | Latitude (WGS 84, decimal degrees) |
 
@@ -124,6 +124,14 @@ python gw_dashboard.py
 ```
 
 Outputs will be written to the `output/` subfolder.
+
+---
+
+## Documentation
+
+A detailed User Guide is available in the [`docs/`](docs/) folder:
+
+- **`User_Guide.docx`** — step-by-step instructions for preparing input files, running the tool, and interpreting the outputs
 
 ---
 
